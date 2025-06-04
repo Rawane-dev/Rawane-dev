@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rawane!
 
-I'm a **Web Developer** from **Algeria** 🇩🇿, with a passion for building user-focused websites and experimenting with robotics and automation!
+<p align="left">I'm a passionate Web Developer from Algeria 🇩🇿, skilled in both front-end and back-end development. I enjoy building responsive web apps and continuously learning new technologies.</p>
 
 ---
 
